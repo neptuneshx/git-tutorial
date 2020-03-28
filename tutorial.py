@@ -1,2 +1,3 @@
-print('hello world')
-print('hhhhhhhhhhhhhhhhh')
+class UselessClass:
+    def __init__():
+        print("hello world")
